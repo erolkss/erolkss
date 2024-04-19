@@ -15,8 +15,8 @@ Entusiasta com Tecnologia mais precisamente com a Programação. Atualmente esto
 
 <div style="display: inline_block">
   <img align="center" alt="spring-boot" src="https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot" />
-  <img align="center" alt="expressjs" src="https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img align="center" alt="django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green" />
+  <img align="center" alt="spring-boot" src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white" />
+  
 </div><br/>
 
 Começei a estudar programação pelo Front-end, pelo famoso trio HTML/CSS/JS, mas pouco mais de 3 meses me dei conta que não é o que eu realmente gosto, apesar de entender sobre.
