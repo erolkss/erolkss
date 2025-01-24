@@ -1,7 +1,8 @@
 ## Olá! Eu sou o Lucas Eduardo Lima 🖐️
 
 Gosto de Tecnologia (Não eu não amo nem todas essas outras mentiras que colocam)
-Atualmente estou cursando ADS, a procura de um estágio de programação voltado para o Back-End.
+Formado em análise e Desenvolvimento de Sistemas, a procura de um cargo como Desenvolvedor Backend Júnior, desenvolvendo soluções, enquanto melhoro minhas habilidades técnicas e adquiro 
+experiência prática no setor.
 
 [![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucaserolima/)
 
